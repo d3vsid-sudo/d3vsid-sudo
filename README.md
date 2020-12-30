@@ -25,19 +25,19 @@
 - 🌱 I’m currently learning Python🐍, C and JavaScript.
 - 😄 Pronouns: He/Him
 
-**📫 How to reach me:**
+### 📫 How to reach me:
 
 <a href="mailto:a.siddharth07@gmail.com">
-  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
+  <img align="left" height="22px" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/Mr_Night">
-  <img alt="My Telegram" width="22px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" />
+  <img alt="My Telegram" height="22px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" />
 </a>
 <a href="https://github.com/d3vsid-sudo">
-  <img alt="My Github" width="22px" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />
+  <img alt="My Github" height="22px" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/itz_sid__0/">
-  <img alt="My Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" />
+  <img alt="My Instagram" height="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" />
 </a>
 
 <br />
