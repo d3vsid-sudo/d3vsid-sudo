@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
-
-
 <br />
 
 ## Operating Systems I use:
