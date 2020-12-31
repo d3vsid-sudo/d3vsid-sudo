@@ -18,9 +18,11 @@
 <br />
 
 ### Operating Systems I use:
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux-#FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Kali_Linux-3933FF?style=for-the-badge&logo=data:assets/kali/png&logoColor=white)
 
 - 🌱 I’m currently learning JavaScript.
 - 😄 Pronouns: He/Him
@@ -39,7 +41,7 @@
 <a href="https://www.instagram.com/itz_sid__0/">
   <img alt="Instagram" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<img alt="Discord" height="25 px" src="https://img.shields.io/badge/Discord-Mr_Night%236181-%237289da?style=for-the-badge&logo=discord">
+<img alt="Discord" height="25 px" src="https://img.shields.io/badge/Discord-Mr_Night%236181-7289DA?style=for-the-badge&logo=discord">
 
 
 ### Languages and Tools I use:
