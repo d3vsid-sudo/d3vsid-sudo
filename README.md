@@ -41,7 +41,6 @@
 </a>
 <img alt="Discord" height="25 px" src="https://img.shields.io/badge/Discord-Mr_Night%236181-%237289da?style=for-the-badge&logo=discord">
 
-<br />
 
 ### Languages and Tools I use:
 #### Languages:
