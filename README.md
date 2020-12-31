@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
 <a href="mailto:a.siddharth07@gmail.com">
-  <img align="left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://t.me/Mr_Night">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
