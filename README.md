@@ -5,8 +5,8 @@
 <a href="mailto:a.siddharth07@gmail.com">
   <img align="left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<!-- <a href="https://t.me/Mr_Night">
-  <img align="left" alt="Telegram" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> -->
+<a href="https://t.me/Mr_Night">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://github.com/d3vsid-sudo">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -28,16 +28,16 @@
 ### 📫 How to reach me:
 
 <a href="mailto:a.siddharth07@gmail.com">
-  <img align="left" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Gmail" align="left" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/Mr_Night">
-  <img alt="My Telegram" height="25px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Telegram" height="25px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://github.com/d3vsid-sudo">
-  <img alt="My Github" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Github" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/itz_sid__0/">
-  <img alt="My Instagram" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img alt="Instagram" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br />
