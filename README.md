@@ -8,11 +8,8 @@
 <a href="https://t.me/Mr_Night">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://github.com/d3vsid-sudo">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://discord.com/users/713019770949206016">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.instagram.com/itz_sid__0/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -21,7 +18,7 @@
 <br />
 
 - 🔭 I’m currently working on a Discord moderation bot
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 😄 Pronouns: He/Him
 
 ### 📫 How to reach me:
