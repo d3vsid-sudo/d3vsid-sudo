@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
-<a href="mailto:a.siddharth07@gmail.com">
+<!-- <a href="mailto:a.siddharth07@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://t.me/Mr_Night">
@@ -13,7 +13,7 @@
 </a>
 <a href="https://www.instagram.com/itz_sid__0/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 
 <br />
 
