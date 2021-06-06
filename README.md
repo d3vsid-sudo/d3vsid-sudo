@@ -2,45 +2,29 @@
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
-<!-- <a href="mailto:a.siddharth07@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://t.me/Mr_Night">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://discord.com/users/713019770949206016">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://www.instagram.com/itz_sid__0/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
-
-<br /> -->
-
-- 🔭 I’m currently working on a Discord moderation bot
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning TypeScript.
 - 🥅 2021 Goals: Learn, build, deploy ;)
 - ⚡ Fun fact: 🚴
 - 😄 Pronouns: He/Him
 
 ### 📫 How to reach me:
 
-<a href="mailto:a.siddharth07@gmail.com">
-  <img alt="Gmail" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/Mr_Night">
-  <img alt="Telegram" height="25px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://github.com/d3vsid-sudo">
-  <img alt="Github" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/itz_sid__0/">
-  <img alt="Instagram" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://discord.com/users/713019770949206016">
-  <img alt="Discord" height="25 px" src="https://img.shields.io/badge/Discord-Mr_Night%236181-7289DA?style=for-the-badge&logo=discord" />
-</a>
-
+<div style="height: 25px">
+  <a href="mailto:a.siddharth07@gmail.com">
+    <img alt="Email" height="" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/0xMrNight">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  </a>
+  <a href="https://discord.com/users/713019770949206016">
+    <img alt="Discord" height="" src="https://img.shields.io/badge/Discord-Mr_Night%236181-7289DA?style=for-the-badge&logo=discord" />
+  </a>
+  <a href="https://telegram.me/Mr_Night">
+    <img alt="Telegram" height="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
 ### Languages and Tools I use:
 
@@ -54,5 +38,6 @@
 
 <br />
 
-![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vsid-sudo&show_icons=true&title_color=ffffff&text_color=daf7bc&icon_color=bb2acf&bg_color=191919)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3vsid-sudo&theme=dracula)
+![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vsid-sudo&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3vsid-sudo&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vsid-sudo&theme=radical&hide=ruby)
