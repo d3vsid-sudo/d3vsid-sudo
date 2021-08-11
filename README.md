@@ -1,6 +1,6 @@
 ## Hi there <img src="./assets/wave.gif" width="30px"> I am Siddharth Arumugam
 
-![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
+![](https://komarev.com/ghpvc/?username=0xMrNight&label=Profile+Views&style=plastic)
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning TypeScript.
@@ -37,6 +37,6 @@
 
 <br />
 
-![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnightdev&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnightdev&theme=radical)
+![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMrNight&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xMrNight&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMrNight&theme=radical)
